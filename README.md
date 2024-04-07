@@ -1,7 +1,12 @@
-## Olá Sou Marcos Lauremiro Desenvolvedor
+Olá, sou Marcos Lauremiro, Desenvolvedor Full Stack!
+Bem-vindo ao meu perfil no GitHub. Sou apaixonado por tecnologia e desenvolvimento, sempre buscando novos desafios e aprendizados no mundo da programação.
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/USERNAME/](https://www.linkedin.com/in/marcos-lauremiro-melo-silva/)) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]([https://www.instagram.com/USERNAME/](https://www.instagram.com/miro_lauremiro/))
+📫 Como entrar em contato comigo:
+Email: marcoslauremiro@gmail.com
+🔗 Conecte-se comigo:
+LinkedIn Badge
+Instagram Badge
 
-<i class="devicon-github-original-wordmark colored"></i>
-          
+💼 Onde me encontrar:
+Portfólio: Aqui
+Estou sempre aberto a colaborar em projetos interessantes e inovadores. Sinta-se livre para entrar em contato caso queira discutir tecnologia, programação, ou simplesmente trocar ideias.
