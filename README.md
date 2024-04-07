@@ -10,4 +10,4 @@ Instagram Badge
 💼 Onde me encontrar:
 Portfólio: Aqui
 Estou sempre aberto a colaborar em projetos interessantes e inovadores. Sinta-se livre para entrar em contato caso queira discutir tecnologia, programação, ou simplesmente trocar ideias.
-![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=THEME_NAME)
+![Anurag Hazra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0D1117&title_color=FE428E&text_color=FFFFFF&icon_color=FE428E)
