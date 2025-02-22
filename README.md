@@ -7,5 +7,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MarcosLauremiro)
 
 ```diff
-+ Apaixonado por transformar ideias em realidade através de código!
++ Em busca de transformar ideias em realidade através de código!
 - Sempre em busca de novos desafios para expandir meus conhecimentos.
