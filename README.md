@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Marcos Lauremiro!
 
-**Desenvolvedor Front-End** apaixonado por criar interfaces incríveis e experiências digitais memoráveis. Transformo ideias em realidade com código limpo, designs responsivos e atenção aos detalhes.
+**Desenvolvedor Front-End** buscando por criar interfaces incríveis e experiências digitais memoráveis. Transformo ideias em realidade com código limpo, designs responsivos e atenção aos detalhes.
 
 ✨ *"Escrever código é uma arte; o navegador é minha tela."* ✨
 
