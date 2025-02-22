@@ -9,3 +9,7 @@
 ```diff
 + Em busca de transformar ideias em realidade através de código!
 - Sempre em busca de novos desafios para expandir meus conhecimentos.
+
+
+MongoDB
+PostgreSQL
