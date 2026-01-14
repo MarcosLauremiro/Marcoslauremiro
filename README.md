@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 
 ---
-### 🎨 Portfólio Destacado
+### 🎨 Portfólio
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-444444?style=flat)](https://portfolio-lauremiro.vercel.app/)
 
