@@ -23,7 +23,7 @@
 ---
 ### 🎨 Portfólio Destacado
 
-[![Portfolio Preview](https://img.shields.io/badge/🚀_Portfólio-FF6B6B?style=for-the-badge)](https://portifolio-lauremiro.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/🚀%20Portfólio-FF6B6B?style=for-the-badge)](https://portfolio-lauremiro.vercel.app/)
 
 ---
 
