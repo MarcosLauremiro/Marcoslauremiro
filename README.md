@@ -23,16 +23,7 @@
 ---
 ### 🎨 Portfólio Destacado
 
-[![Portfólio](https://img.shields.io/badge/🚀%20Portfólio-FF6B6B?style=for-the-badge)](https://portfolio-lauremiro.vercel.app/)
-
----
-
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosLauremiro&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FFD700&icon_color=00FF00"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosLauremiro&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700"/>
-</div>
+![Portfólio](https://img.shields.io/badge/🚀%20Portfólio-FF6B6B?style=for-the-badge)(https://portfolio-lauremiro.vercel.app/)
 
 ---
 
